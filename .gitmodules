@@ -1,0 +1,6 @@
+[submodule "ext2"]
+	path = ext2
+	url = git://git.tkgeisel.com/ext2.git
+[submodule "multiextract"]
+	path = multiextract
+	url = git://github.com/tmzt/multiextract
